@@ -1,4 +1,9 @@
+Version: 0.0.3
+Date: 2025. 05. 09.
+  Bugfixes:
+    - Fixed the title of the mod
 Version: 0.0.2
+---------------------------------------------------------------------------------------------------
 Date: 2025. 05. 09.
   Major Features:
     - Added Video
