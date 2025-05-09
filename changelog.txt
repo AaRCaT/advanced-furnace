@@ -1,0 +1,4 @@
+Version: 0.0.1
+Date: 2025. 05. 09.
+  Major Features:
+    - Release
