@@ -7,6 +7,6 @@
     "description": "Add Advanced Furnace, allow faster and 50% productivity.",
     "dependencies": [
         "base >= 2.0",
-        "(?) space-age >= 2.0"
+        "?space-age >= 2.0"
     ]
 }
